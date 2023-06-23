@@ -5,9 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielacald&label=Profile%20views&color=0e75b6&style=flat" alt="danielacald" /> </p>
 
 - 🔭 I’m currently working on **DIGITAL BOOKING**
-
 - 🌱 I’m currently learning **Angular, Go**
-
+- 💪🏼 Future Goals: Learn more technologies - Never stop learning & creating new ideas.
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **danielacalderon088@gmail.com**
