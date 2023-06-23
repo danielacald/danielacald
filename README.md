@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Daniela Calderón</h1>
-<h3 align="center">Hey, how's it going, folks! I'm here to tell you about my great passion: web development and data analytics. Seriously, I can't express how excited I am to be able to create incredible things in the digital world. Every line of code I write is like magic, turning ideas into web applications. But that's not all, because I also love digging through mountains of data and uncovering hidden treasures with data analytics. It's like being a detective of information. India</h3>
+<h3 align="center">Hey, how's it going, folks! I'm here to tell you about my great passion: web development and data analytics. Seriously, I can't express how excited I am to be able to create incredible things in the digital world. Every line of code I write is like magic, turning ideas into web applications. But that's not all, because I also love digging through mountains of data and uncovering hidden treasures with data analytics. It's like being a detective of information.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielacald&label=Profile%20views&color=0e75b6&style=flat" alt="danielacald" /> </p>
 
