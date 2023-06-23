@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniela calderón roa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniela calderón roa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/admdanielacalderon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniela calderón roa" height="30" width="40" /></a>
 <a href="https://fb.com/daniela calderon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniela calderon" height="30" width="40" /></a>
 <a href="https://instagram.com/calderon.daniela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calderon.daniela" height="30" width="40" /></a>
 <a href="https://discord.gg/Daniela Calderón#0265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Daniela Calderón#0265" height="30" width="40" /></a>
