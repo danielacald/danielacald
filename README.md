@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielacald&show_icons=true&locale=en" alt="danielacald" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielacald&" alt="danielacald" /></p>
+<p align="center">
+  <img src="https://github.com/danielacald/danielacald/blob/main/danielacalderongithub.svg" alt="snake">
+</p>
